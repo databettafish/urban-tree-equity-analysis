@@ -19,3 +19,5 @@ The goal is to investigate whether underserved communities have reduced access t
 
 ## Status
 Project in progress – currently gathering datasets.
+
+“How does green space access vary across socioeconomic groups?”
