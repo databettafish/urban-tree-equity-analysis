@@ -59,7 +59,7 @@ Spatial patterns were visualized using ward-level mapping in Tableau.
 
 ### DC Ward Tree Canopy Equity Dashboard
 
-![DC Tree Canopy Dashboard](Weath_Canopy_Dashboard.png)
+![DC Tree Canopy Dashboard](figures/Weath_Canopy_Dashboard.png)
 
 - Choropleth map of DC wards
 - Color represents canopy relative to income level (equity index)
